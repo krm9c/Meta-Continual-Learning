@@ -3,7 +3,7 @@
 
 In every folder there should be a python file.
 
-For execution, please run ___.py
+For execution, please run   " python ___.py"
 
 Please note that the files with _Omni are for the omniglot dataset and the ones without are for the incremental sine wave dataset.
 The code is not speed optimized and therefore might run slowly on CPUs
